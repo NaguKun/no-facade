@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+tensorflow
+scikit-learn
+matplotlib
+jinja2
+python-multipart
+python-jose
+python-dotenv
+python-multipart
+python-jose
+passlib
